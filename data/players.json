@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "team": "Real Madrid",
+        "goals": 50,
+        "salary": 1000000,
+        "injured": false,
+        "thumb": "../img/FPFImageHandler.jpg"
+    },
+    {
+        "name": "Lionel Messi",
+        "team": "Barcelona",
+        "goals": 45,
+        "salary": 900000,
+        "injured": true,
+        "thumb": "../img/MESSI.jpg"
+    },
+    {
+        "name": "Neymar",
+        "team": "Barcelona",
+        "goals": 30,
+        "salary": 800000,
+        "injured": false,
+        "thumb": "../img/NEYMAR.jpg"
+    },
+    {
+        "name": "Luis Suarez",
+        "team": "Barcelona",
+        "goals": 35,
+        "salary": 700000,
+        "injured": false,
+        "thumb": "../img/SUAREZ.png"
+    },
+    {
+        "name": "Gareth Bale",
+        "team": "Real Madrid",
+        "goals": 25,
+        "salary": 600000,
+        "injured": true,
+        "thumb": "../img/BALE.png"
+    },
+    {
+        "name": "James Rodriguez",
+        "team": "Real Madrid",
+        "goals": 20,
+        "salary": 500000,
+        "injured": false,
+        "thumb": "../img/RODRIGUEZ.jpg"
+    },
+    {
+        "name": "Karim Benzema",
+        "team": "Real Madrid",
+        "goals": 15,
+        "salary": 400000,
+        "injured": false,
+        "thumb": "../img/BENZEMA.jpg"
+    }
+]
